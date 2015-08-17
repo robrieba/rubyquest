@@ -1,0 +1,20 @@
+title,description,north,south,east,west
+Round Room,You are in a round room with exits in all directions.,Wide Hall,Narrow Hall,Billiard Room,Fountain
+Pit,You are at the bottom of a pit!,empty,empty,empty,empty
+Fountain,"This is a majestic room, adorned with a beautiful fountain in the middle.",Pit,Partially Finished Room,Round Room,Pit
+Narrow Hall,This hall is so narrow!  You are feeling a little claustrophobic. ,Round Room,Rough-hewn Room,empty,empty
+Wide Hall,"This expansive, wide room makes you feel so small.",Pit,Round Room,empty,empty
+Billiard Room,"Maybe this place isn't so dank and dark after all!  This is a luxurious billiard room, with all the usual trappings.  It's too bad that this isn't a time to relax.",Narrow Passage,empty,empty,empty
+Narrow Passage,"The space in this narrow passage is a little confined, but you're able to squeeze in.",Drainage Pipe,Billiard Room,empty,empty
+Large Drainage Pipe,You are in a larger drainage pipe that is connected to a small drainage pipe to the south.  A bright light to the north looks like the pipe opens up to a large area.,Underground Lake  ,Drainage Pipe,empty,empty
+Underground Lake  ,A vast underground lake sits quietly inside of an even larger cavern.  You cannot see the top!  Some natural source of light allows you to see clearly.  An old Pirate Ship is anchored just to the west of here.,empty,empty,empty,Pirate Ship Deck
+Pirate Ship Deck,You're on the deck of an old pirate ship.  The ropes and cloth of the sails are weathered and rotten.  Rats scurry across the deck everywhere you look.  A staircase leads to the bow.,Pirate Ship Bow,Pirate Ship Deck,empty,empty
+Pirate Ship Bow,"You are up on the bow of an old pirate ship.  From this elevated level, you can see a small dingy tied to the side of the ship.  You could jump…",empty,empty,empty,Dingy
+Dingy,"You land in the dingy!  Taking the oars in your hands, you row across the lake.  Just as you make it to the shore, the dingy starts to take on water.  Quick!  You better get out!",Shore,empty,empty,empty
+Shore,You are on the shore of a vast lake.  The ruins of a sunken dingy are a few meters off the shore.  An odd looking stone keep stands like a sentry looking out over the water.,Underground Keep,empty,empty,empty
+Underground Keep,"You are in the foyer of an old keep.  Darkness obscures the floor as you grope about, barely locating every exit.",Pit,Shore,Pit,Ruby
+Ruby,END OF THE GAME,empty,empty,empty,empty
+Rough-hewn Room,"Many of the rooms in this underground lair are lined with polished stone or brick, but this room looks like it's been freshly carved with noting by a pickax.",Narrow Hall,Pit,Pit,Rough-hewn Passage
+Rough-hewn Passage,This rough-hewn passage reminds you of old days of spelunking.,Partially Finished Room,,Rough-hewn Passage,
+Partially Finished Room,"Part of this room is polished rock, while the other part is still roughly-hewn.  ",Fountain,Rough-hewn Passage,empty,empty
+Drainage Pipe,You squeeze into a small drainage pipe.  It stinks!  You can crawl south into the lovely billiard room.  To the north the pipe widens.,Large Drainage Pipe,Billiard Room,empty,empty
