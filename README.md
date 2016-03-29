@@ -1,7 +1,10 @@
+
+``
 888b.       8              .d88b.                   w
 8  .8 8   8 88b. Yb  dP    8P  Y8 8   8 .d88b d88b w8ww
 8wwK' 8b d8 8  8  YbdP     8b wd8 8b d8 8.dP' `Yb.  8
 8  Yb `Y8P8 88P'   dP      `Y88Pw `Y8P8 `Y88P Y88P  Y8P
+``
 
 You have long heard the legend of the Ruby of Reshith.  Anyone who touches
 it, truly desiring to return to their home, will be instantly transported to
